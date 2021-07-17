@@ -1,0 +1,27 @@
+.nav-item{
+    font-size: 35px;
+    font-family: 'Dancing Script', sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+.main-footer{
+    font-family: 'Dancing Script';
+    font-size: 20px;
+    padding: 10px;
+}
+.mycard{
+    padding: 50px;
+    padding-top: 20px;
+    margin: 10px;
+}
+#search{
+    background-color:whitesmoke;
+}
+.singleCard{
+    border: 5px solid dodgerblue;
+}
+#head{
+    text-align: center;
+    margin-top: 30px;
+    font-family: Dancing Script;
+}
